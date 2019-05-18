@@ -1,0 +1,11 @@
+D:\WebTest\WebTest\obj\Debug\WebTest.csprojResolveAssemblyReference.cache
+D:\WebTest\WebTest\bin\Debug\WebTest.dll
+D:\WebTest\WebTest\bin\Debug\WebTest.pdb
+D:\WebTest\WebTest\bin\Debug\WebDriver.dll
+D:\WebTest\WebTest\bin\Debug\WebDriver.xml
+D:\WebTest\WebTest\obj\Debug\WebTest.dll
+D:\WebTest\WebTest\obj\Debug\WebTest.pdb
+D:\WebTest\WebTest\bin\Debug\System.AddIn.dll
+D:\WebTest\WebTest\bin\Debug\WebDriver.Support.dll
+D:\WebTest\WebTest\bin\Debug\Newtonsoft.Json.dll
+D:\WebTest\WebTest\bin\Debug\WebDriver.Support.xml
