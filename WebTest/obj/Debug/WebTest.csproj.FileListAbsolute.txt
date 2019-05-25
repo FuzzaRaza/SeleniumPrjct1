@@ -9,3 +9,28 @@ D:\WebTest\WebTest\bin\Debug\System.AddIn.dll
 D:\WebTest\WebTest\bin\Debug\WebDriver.Support.dll
 D:\WebTest\WebTest\bin\Debug\Newtonsoft.Json.dll
 D:\WebTest\WebTest\bin\Debug\WebDriver.Support.xml
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\WebTest.dll
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\WebTest.pdb
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\System.AddIn.dll
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\System.Web.Http.dll
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\WebDriver.dll
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\WebDriver.Support.dll
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\System.Web.Razor.dll
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\System.Web.Http.xml
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\WebDriver.xml
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\WebDriver.Support.xml
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\System.Web.Razor.xml
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\obj\Debug\WebTest.csprojResolveAssemblyReference.cache
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\obj\Debug\WebTest.csproj.CoreCompileInputs.cache
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\obj\Debug\WebTest.dll
+C:\Users\majustudent\Desktop\New folder\SeleniumPrjct1\WebTest\obj\Debug\WebTest.pdb
